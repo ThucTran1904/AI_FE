@@ -12,6 +12,10 @@
     align-items: center;
     color: white;
   }
+
+  li{
+    list-style: none;
+  }
   
   .container{
     height: 100vh;
@@ -33,7 +37,7 @@
   }
   
   #display_image{
-    height: 500px;
+    height: 700px;
     width: 100%;
     background-repeat: no-repeat;
     background-position: center;
